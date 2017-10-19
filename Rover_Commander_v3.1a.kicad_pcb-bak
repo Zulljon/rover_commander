@@ -2,8 +2,8 @@
 
   (general
     (links 197)
-    (no_connects 27)
-    (area 106.924999 79.924999 184.075001 122.075001)
+    (no_connects 18)
+    (area 105.105 60.638719 219.521429 153.672362)
     (thickness 1.6)
     (drawings 42)
     (tracks 1012)
@@ -2368,7 +2368,7 @@
     )
   )
 
-  (module Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm (layer B.Cu) (tedit 59E8B469) (tstamp 59E34265)
+  (module Housings_QFP:LQFP-64_10x10mm_Pitch0.5mm (layer B.Cu) (tedit 59E8B6BA) (tstamp 59E34265)
     (at 153.924 101.092 135)
     (descr "64 LEAD LQFP 10x10mm (see MICREL LQFP10x10-64LD-PL-1.pdf)")
     (tags "QFP 0.5")
@@ -4812,7 +4812,7 @@
   (via (at 158.496 114.3) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 77))
   (segment (start 162.052 102.310814) (end 160.606159 102.470858) (width 0.2) (layer B.Cu) (net 78))
   (segment (start 162.56 99.568) (end 160.857382 99.568) (width 0.2) (layer B.Cu) (net 78))
-  (segment (start 160.857382 99.568) (end 160.6592 99.766182) (width 0.2) (layer B.Cu) (net 78))
+  (segment (start 160.857382 99.568) (end 160.606159 99.713142) (width 0.2) (layer B.Cu) (net 78))
   (segment (start 162.052 101.867) (end 162.052 100.076) (width 0.2) (layer F.Cu) (net 78))
   (segment (start 162.052 100.076) (end 162.56 99.568) (width 0.2) (layer F.Cu) (net 78))
   (via (at 162.56 99.568) (size 0.6) (drill 0.4) (layers F.Cu B.Cu) (net 78))
