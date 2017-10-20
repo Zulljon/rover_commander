@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name L7805ABD2T-TR)(type Legacy)(uri /mnt/DATA2/pCloud/job/KiCAD/libs/L7805ABD2T-TR.mod)(options "")(descr "linear voltage regulator"))
   (lib (name L7805CD2T-TR)(type Legacy)(uri /mnt/DATA2/pCloud/job/KiCAD/libs/L7805CD2T-TR.mod)(options "")(descr "linear voltage regulator"))
+  (lib (name libs)(type KiCad)(uri /mnt/DATA2/pCloud/job/KiCAD/libs)(options "")(descr ""))
 )
