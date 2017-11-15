@@ -1984,7 +1984,7 @@ U 1 1 59E86518
 P 2300 10250
 F 0 "U2" H 3000 10400 50  0000 C CNN
 F 1 "L7805ABD2T-TR" H 3000 10000 50  0000 C CNN
-F 2 "TO254P1542X460-3N" H 3000 9900 50  0001 C CNN
+F 2 "zulljon:TO254P1542X460-3N" H 3000 9900 50  0001 C CNN
 F 3 "http://www.st.com/web/en/resource/technical/document/datasheet/CD00000444.pdf" H 3000 9800 50  0001 C CNN
 F 4 "Voltage Regulator 5V 2% 1.5A D2PAK L7805ABD2T-TR, Linear Voltage Regulator, Current Limit, Shut-Down 1.5A 5 V, 2-Pin D2PAK" H 3000 9700 50  0001 C CNN "Description"
 F 5 "RS" H 3000 9600 50  0001 C CNN "Supplier_Name"

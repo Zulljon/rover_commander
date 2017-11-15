@@ -37,7 +37,7 @@ LabSize=60
 version=1
 [eeschema]
 version=1
-LibDir=../libs
+LibDir=/mnt/DATA2/pCloud/job/KiCAD/zpkl/symbols;/mnt/DATA2/pCloud/job/KiCAD/digikey-kicad-library/symbols
 [eeschema/libraries]
 LibName1=Rover_Commander_v3.1a-rescue
 LibName2=power
