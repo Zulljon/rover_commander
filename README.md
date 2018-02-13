@@ -2,7 +2,7 @@
 PCB part of project (source codes unavailable!)
 
 ## Scheme
-![scheme_svg](Rover_Commander_v3.1a.svg) 
+![scheme_svg](rover_commander.png) 
 
 ## PCB
 ![FRONT side](Rover_Commander_v3.1a_front.png)
