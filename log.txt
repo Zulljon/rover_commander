@@ -1,2 +1,0 @@
-11:39:07: Failed to set temporary file permissions (error 1: Операция не позволена)
-11:39:07: Failed to set temporary file permissions (error 1: Операция не позволена)
