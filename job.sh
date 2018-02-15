@@ -6,7 +6,7 @@
 # - plot .png .pdf (use EESHOW utility)
 
 PROJname="rover_commander"
-FILEname="Rover_Commander_v3.1a"
+FILEname="rover_commander"
 
 eeplot -o pdf:${PROJname}.pdf ${FILEname}.pro
 eeplot -o png:${PROJname}.png -s 4 ${FILEname}.pro
