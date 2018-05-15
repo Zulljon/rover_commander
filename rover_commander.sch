@@ -1074,7 +1074,7 @@ F 3 "" H 1900 9950 50  0001 C CNN
 	1    1900 9950
 	0    -1   -1   0   
 $EndComp
-NoConn ~ 13200 2500
+NoConn ~ 13200 3600
 NoConn ~ 13200 2900
 NoConn ~ 13200 3100
 NoConn ~ 13200 4000
@@ -1250,7 +1250,7 @@ Text Label 10400 7200 2    60   ~ 0
 EEPROM_MISO
 Text Label 11400 7400 0    60   ~ 0
 EEPROM_MOSI
-Text Label 13200 3600 0    60   ~ 0
+Text Label 13200 2500 0    60   ~ 0
 EEPROM_CS
 Text Label 10300 6800 2    60   ~ 0
 EEPROM_CS
