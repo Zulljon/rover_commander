@@ -1,4 +1,4 @@
-update=Вт 13 фев 2018 12:46:09
+update=Вт 15 май 2018 13:19:57
 version=1
 last_client=kicad
 [pcbnew]
@@ -72,8 +72,10 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=stm32
-LibName34=M95160-WMN6TP
-LibName35=L7805ABD2T-TR
-LibName36=tja1040t
-LibName37=RTL8201CP
-LibName38=h1102nlt
+LibName34=zpkl
+LibName35=M95160-WMN6TP
+LibName36=L7805ABD2T-TR
+LibName37=tja1040t
+LibName38=RTL8201CP
+LibName39=h1102nlt
+LibName40=STM32F105RCT6

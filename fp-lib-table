@@ -1,4 +1,4 @@
 (fp_lib_table
-  (lib (name Kulibin)(type KiCad)(uri ../zpkl/kulibin-auto-img.pretty)(options "")(descr "user lib"))
-  (lib (name zulljon)(type KiCad)(uri ../zpkl/footprints.pretty)(options "")(descr "user lib"))
+  (lib (name Kulibin)(type KiCad)(uri ${KIPRJMOD}/../zpkl/kulibin-auto-img.pretty)(options "")(descr "user lib"))
+  (lib (name zulljon)(type KiCad)(uri ${KIPRJMOD}/../zpkl/footprints.pretty)(options "")(descr "user lib"))
 )
