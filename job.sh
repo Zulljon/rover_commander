@@ -11,4 +11,7 @@ FILEname="rover_commander"
 eeplot -o pdf:${PROJname}.pdf ${FILEname}.pro
 eeplot -o png:${PROJname}.png -s 4 ${FILEname}.pro
 
-zip -9 ${PROJname}.zip *.gbr *.drl readme.txt readme_RU.txt
+if [[ -e "${PROJname}-F.Cu.gbr" ]]; then
+	zip -9 ${PROJname}.zip *.gbr *.drl readme.txt readme_RU.txt
+	rm *.gbr *.drl
+fi
